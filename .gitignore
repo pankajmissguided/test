@@ -1,0 +1,9 @@
+node_modules/*
+cypress/videos*
+cypress/screenshots*
+.vscode/*
+/cypress.json
+cypress/fixtures/websiteUrls.json
+cypress/fixtures/productData.json
+cypress/fixtures/categoryData.json
+cypress/fixture/mennaceUrl.json
